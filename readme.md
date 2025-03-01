@@ -26,6 +26,17 @@
 
 ###
 
+<p align="left">
+👋 Olá! Sou um estudante de Informática Biomédica, combinando minhas formações em Biotecnologia e Análise e Desenvolvimento de Sistemas com mais de 20 anos de experiência na área médica como Técnico em Histotecnologia.<br>
+🧬💻 Minha paixão está na interseção entre tecnologia e biomedicina, explorando soluções inovadoras para aplicações na saúde, processamento de dados biomédicos e desenvolvimento de software voltado para a área médica.
+<br>
+🚀 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software, especialmente frontend, machine learning aplicado à biomedicina e tecnologias emergentes na área da saúde.
+<br>
+📸 Além da programação e biotecnologia, também sou fotógrafo e tenho interesse em design digital e inovação.
+</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=auguston9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=auguston9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
