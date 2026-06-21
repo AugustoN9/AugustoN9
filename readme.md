@@ -14,6 +14,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mongodb" height="40" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?color=fcfcfc">
   <img align="center" alt="Mongodb" height="80" width="100" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?color=fcfcfc">
+  <img align="center" alt="JAVA" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   ##
