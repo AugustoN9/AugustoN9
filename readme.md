@@ -67,7 +67,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-    <img src="https://raw.githubusercontent.com/AugustoN9/AugustoN9/output/snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/AugustoN9/AugustoN9/output/github-snake-dark.svg" alt="Snake animation" />
   ![snake gif](https://github.com/AugustoN9/AugustoN9/blob/output/github-snake-dark.svg)
 </div>
 
