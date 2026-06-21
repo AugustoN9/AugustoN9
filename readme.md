@@ -59,6 +59,14 @@
 
 ###
 
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/AugustoN9/AugustoN9/blob/output/github-snake-dark.svg)
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
