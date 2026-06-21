@@ -65,6 +65,12 @@
 
 ###
 
+<!-- Snake Animation -->
+<div align="center">
+    
+  ![snake gif](https://github.com/AugustoN9/AugustoN9/blob/output/github-snake-dark.svg)
+</div>
+
 
 
 
